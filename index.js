@@ -1,1 +1,1 @@
-console.log('example repository');
+console.log('example repository is so cool!');
